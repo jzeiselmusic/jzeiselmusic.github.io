@@ -1,12 +1,11 @@
 body {
 background: #bdbffa;
 text-align: center;
-margin: none;
 }
 
 #main_index{
-width: 1200px;
-height: 3000px;
+width: 80%;
+height: 95%;
 background: #ffffff;
 margin: 25px auto;
 border: solid 3px;
