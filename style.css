@@ -10,6 +10,7 @@ background: #ffffff;
 margin: 25px auto;
 border: solid 3px;
 border-radius: 40px;
+min-width:480px;
 }
 
 #main_discog{
