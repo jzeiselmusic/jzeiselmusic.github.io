@@ -5,7 +5,7 @@ text-align: center;
 
 #main_index{
 width: 99%;
-height: 3000px;
+height: 3500px;
 background: #ffffff;
 margin: auto;
 border: solid 3px;
@@ -82,7 +82,7 @@ font-size: 20pt;
     width: 200;
     margin-left:auto;
     margin-right:auto;
-    text-indent: -15px;
+    text-indent: -50px;
     display:block;
 }
 .album_cover_index:hover {
