@@ -80,8 +80,8 @@ font-size: 20pt;
 
 .album_cover_index {
     width: 200;
-    margin-left:none;
-    margin-right:none;
+    margin-left:auto;
+    margin-right:auto;
     display:block;
 }
 .album_cover_index:hover {
