@@ -5,7 +5,7 @@ text-align: center;
 
 #main_index{
 width: 85%;
-height: 2900px;
+height: 2950px;
 background: #ffffff;
 margin: 25px auto;
 border: solid 3px;
@@ -50,7 +50,7 @@ font: 50pt;
 p {
 text-align: center;
 font-family: "Courier New";
-font-size: 20px;
+font-size: 17.5px;
 }
 
 h3 {
