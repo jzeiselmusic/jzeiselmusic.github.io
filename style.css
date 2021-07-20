@@ -49,8 +49,9 @@ font: 50pt;
 
 p {
 text-align: center;
-font-family: "Courier New";
-font-size: 17.5px;
+font-family: "Trebuchet MS";
+font-size: 19px;
+letter-spacing: 2px;
 }
 
 h3 {
