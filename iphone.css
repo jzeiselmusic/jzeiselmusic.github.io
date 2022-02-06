@@ -5,7 +5,7 @@ text-align: center;
 
 #main_index{
 width: 99%;
-height: 3200px;
+height: 2900px;
 background: #ffffff;
 margin: auto;
 border: solid 3px;
@@ -15,7 +15,7 @@ min-width:480px;
 
 #main_discog{
 width: 98%;
-height: 2700px;
+height: 2800px;
 background: #ffffff;
 margin: auto;
 border: solid 2px;
@@ -40,7 +40,7 @@ font: 50pt;
 
 p {
 text-align: center;
-font-family: "Courier New";
+font-family: "Trebuchet MS";
 font-size: 20px;
 }
 
